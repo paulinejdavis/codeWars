@@ -21,4 +21,4 @@
 // input validation and error handling.
 // Overall, the API serves as the intermediary between the client-side 
 // application and the server-side application, providing a way for 
-the two to communicate and exchange data.
+// the two to communicate and exchange data.
