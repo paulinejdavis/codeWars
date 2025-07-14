@@ -1,4 +1,4 @@
-public class Dinglemouse {
+/*public class DingleMouse {
   
   private static int ONE_HUNDRED = 100;
 
@@ -15,3 +15,5 @@ public class Dinglemouse {
   }
   
 }
+
+ */

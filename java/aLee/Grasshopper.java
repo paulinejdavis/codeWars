@@ -1,4 +1,6 @@
-public class GrassHopper {
+package aLee;
+
+public class Grasshopper {
 
     public static String weatherInfo(int temp) {
         double c = convertToCelsius(temp);

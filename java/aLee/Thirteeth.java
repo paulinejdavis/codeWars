@@ -1,6 +1,8 @@
+package aLee;
+
 import java.util.List;
 
-public class Kata13December {
+public class Thirteeth {
     public static List<Integer> filterOddNumber(List<Integer> listOfNumbers)
     {
         for (int i = listOfNumbers.size() - 1; i >= 0; i--)

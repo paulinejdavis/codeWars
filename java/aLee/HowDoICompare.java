@@ -1,3 +1,5 @@
+package aLee;
+
 public class HowDoICompare {
     public static String whatIs(Integer x) {
         for (Object[] p : specialNumbers) {

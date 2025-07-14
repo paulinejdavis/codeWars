@@ -1,4 +1,6 @@
-public class Dinglemouse {
+package aLee;
+
+public class Replace {
 
   public static String replaceDots(final String str) {
     return str.replace(".", "-");

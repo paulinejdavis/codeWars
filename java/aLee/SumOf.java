@@ -1,4 +1,6 @@
-public class Solution {
+package aLee;
+
+class SumOf {
   public static int sumOfDigits(int n) {
     int sum = 0;
     String digits = n + "";

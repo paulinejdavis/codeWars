@@ -1,4 +1,6 @@
-public class Greeter {
+package aLee;
+
+public class Jenny {
   private static final String SPECIAL_GREETING = "Hello, my love!";
 
   public static String greet(String name) {

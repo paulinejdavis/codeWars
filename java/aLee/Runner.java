@@ -1,4 +1,5 @@
-public class Dinglemouse {
+/*
+public class Runner {
 
   private static class Logan5 implements Runnable {
     public void run() {
@@ -20,3 +21,5 @@ public class Dinglemouse {
   }
   
 }
+
+*/

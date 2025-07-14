@@ -1,3 +1,5 @@
+package aLee;
+
 public class Greeter {
   public static String greet(String name) {
      if(name.equals("Johnny")){

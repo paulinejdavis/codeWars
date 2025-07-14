@@ -1,4 +1,6 @@
-public class GhostCode{
+package aLee;
+
+public class Ghost{
   public static String helloName(final String name){
   // u000d name="dumb";
     if(name == null || name.equals(""))

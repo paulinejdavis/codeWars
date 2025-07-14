@@ -1,6 +1,8 @@
+package aLee;
+
 import java.util.HashMap;
 
-public final class Kata {
+public class Parsing {
 
     protected static final HashMap <String, String> getStatus(final boolean isBusy) {
         HashMap<String, String> status = new HashMap<>();
